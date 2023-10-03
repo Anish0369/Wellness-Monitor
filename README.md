@@ -1,10 +1,10 @@
 # Wellness-Monitor
 
 
+
 # Working - Video
 
-https://github.com/Anish0369/Wellness-Monitor/assets/96392125/af1f03fd-a70b-4d72-8160-01dc651fc1d7
-
+https://github.com/Anish0369/Wellness-Monitor/assets/96392125/5e16e8da-b95d-4ea3-a068-b9ea7d3a3204
 
 If video is not showing - https://youtube.com/shorts/DwFu-QoJQTI?feature=share
 # Components
